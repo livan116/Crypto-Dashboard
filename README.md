@@ -44,7 +44,7 @@ npm install
 
 3. Start it up:
 ```bash
-npm start
+npm run dev
 ```
 
 That's it! The dashboard should open in your browser automatically.
