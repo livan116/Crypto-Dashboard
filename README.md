@@ -33,7 +33,7 @@ Here's how to get it running:
 
 1. First, clone this project:
 ```bash
-git clone https://github.com/yourusername/crypto-dashboard.git
+git clone https://github.com/livan116/Crypto-Dashboard.git
 cd crypto-dashboard
 ```
 
@@ -44,7 +44,7 @@ npm install
 
 3. Start it up:
 ```bash
-npm start
+npm run dev
 ```
 
 That's it! The dashboard should open in your browser automatically.
@@ -56,7 +56,7 @@ I built this using:
 - TailwindCSS for styling
 - CoinGecko's API for crypto data
 - React Router for navigation
-- Some nice icons from React Icons
+- Some icons from React Icons
 
 
 
